@@ -15,7 +15,7 @@ const App = () => {
   }, [])
   return (
     <div>
-      <Line data={settings}/>
+      <Line data={settings} className="test"/>
       <a href="https://www.coindesk.com/price/bitcoin">
         <center>Powered by CoinDesk</center>
         </a>
