@@ -3,7 +3,7 @@
 App that makes a request to the CoinDesk API and displays Bitcoin price data for the last 31 days. Built with Express, React, Node, & Chart.js.
 
 <p align="center">
-<img src="screenshot.png" width="600"/>
+<img src="screenshot2.png" width="600"/>
 </p>
 
 ## Setup:
